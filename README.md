@@ -1,93 +1,133 @@
-# 👋 Привет, я Иван
+<div align="center">
 
-<img src="https://i.imgur.com/your-banner.gif" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00BFFF&center=true&vCenter=true&width=750&lines=Привет%2C+я+Иван+%F0%9F%91%8B;Backend-разработчик;Telegram-боты+%26+Автоматизация;Linux+%26+Серверная+инфраструктура" />
 
-## Backend Developer | Telegram Bots | Automation | Linux
+</div>
 
-Я разрабатываю backend-решения, Telegram-ботов и автоматизацию для бизнеса.
+<br>
 
-Моя цель — создавать не просто код, а готовые решения:
-**разработка → сервер → запуск → поддержка**
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="700">
+
+</div>
+
+# 👨‍💻 Обо мне
+
+Привет! Меня зовут Иван.
+
+Я занимаюсь разработкой backend-систем, Telegram-ботов и автоматизацией процессов.
+
+Моя особенность — сочетание разработки и системного администрирования:
+
+```text
+Разработка → Настройка сервера → Развёртывание → Поддержка
+```
+
+Я не только создаю программные решения, но и умею подготовить инфраструктуру для их стабильной работы.
+
+📩 Связаться со мной:
+https://t.me/tete4kaa
 
 ---
 
-## 🚀 Чем занимаюсь
+# 🚀 Чем занимаюсь
 
+<table>
+<tr>
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<td width="50%">
 
+## 🤖 Telegram-боты
 
-### 🤖 Telegram Bots
+Разработка ботов для бизнеса:
 
-Разработка Telegram-ботов:
+* приём заявок;
+* каталоги товаров;
+* уведомления;
+* автоматизация продаж;
+* CRM-интеграции;
+* системы лояльности.
 
-- бизнес-боты;
-- каталоги товаров;
-- системы лояльности;
-- уведомления;
-- интеграции.
+</td>
 
+<td width="50%">
 
-### ⚙️ Automation
+## ⚙️ Автоматизация
 
-Автоматизация процессов:
+Создание решений:
 
-- парсинг данных;
-- API интеграции;
-- обработка информации;
-- внутренние инструменты.
+* парсинг данных;
+* обработка информации;
+* интеграции через API;
+* автоматизация рутинных задач;
+* внутренние инструменты.
 
+</td>
 
-### 🖥️ Backend & Infrastructure
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🖥 Backend-разработка
+
+Создание:
+
+* REST API;
+* серверной логики;
+* баз данных;
+* веб-сервисов;
+* приложений под задачи бизнеса.
+
+</td>
+
+<td width="50%">
+
+## 🌐 Серверная инфраструктура
 
 Работа с:
 
-- REST API;
-- базами данных;
-- VPS;
-- Linux;
-- деплоем проектов.
+* Linux;
+* VPS;
+* Nginx;
+* Docker;
+* настройкой окружения;
+* развёртыванием проектов.
 
-<br clear="right"/>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
 # 🛠 Технологии
 
+<div align="center">
 
-### Backend
+<img src="https://skillicons.dev/icons?i=python,cs,js,nodejs,postgres,sqlite,docker,linux,nginx,git,github" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,js,nodejs,postgres,sqlite" />
-</p>
-
-
-### Infrastructure
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github" />
-</p>
-
+</div>
 
 ---
 
-# 📌 Featured Projects
+# 📌 Избранные проекты
 
-
-## 🌐 VoidWalker
+## 🌌 VoidWalker
 
 Игровой веб-проект.
 
 Моя зона ответственности:
 
-- разработка;
-- серверная часть;
-- настройка инфраструктуры;
-- поддержка проекта.
-
+* разработка функционала;
+* серверная часть;
+* настройка инфраструктуры;
+* поддержка проекта.
 
 🔗 https://voidwalker.pw/
-
 
 ---
 
@@ -97,63 +137,95 @@
 
 Возможности:
 
-✅ каталог товаров  
-✅ база пользователей  
-✅ уведомления  
-✅ административные функции  
+✅ управление пользователями
+✅ работа с базой данных
+✅ уведомления клиентов
+✅ обработка заявок
+✅ административные функции
 
+Стек:
 
-Stack:
-
-Python • Aiogram • PostgreSQL
-
-
----
-
-## 🐍 Python Automation Toolkit
-
-Набор инструментов автоматизации:
-
-- работа с API;
-- обработка данных;
-- парсинг информации.
-
+```text
+Python
+Aiogram
+PostgreSQL
+Docker
+```
 
 ---
 
-# 🔒 Private Projects
+# 🔒 Приватные проекты
 
-Также работаю над закрытыми коммерческими проектами:
+Также занимаюсь разработкой закрытых коммерческих проектов:
 
-- мобильные приложения;
-- внутренние сервисы;
-- backend-системы;
-- автоматизация процессов.
+* мобильные приложения;
+* backend-сервисы;
+* внутренние инструменты;
+* системы автоматизации.
 
-Исходный код приватный из-за NDA и принадлежности клиентам.
+Исходный код некоторых проектов находится в приватных репозиториях, так как они принадлежат владельцам проектов.
 
 ---
 
-# 📊 GitHub Stats
+# 🎓 Образование
 
+**Инженер по компьютерным системам и комплексам**
 
-<img src="https://github-readme-stats.vercel.app/api?username=parsefal228&show_icons=true&theme=tokyonight" />
+Специализация:
 
+* компьютерные системы;
+* серверная инфраструктура;
+* администрирование;
+* разработка программных решений.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsefal228&theme=tokyonight" />
+---
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=parsefal228&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=parsefal228&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Сейчас развиваюсь в направлениях
+
+```text
+> Архитектура backend-систем
+
+> Автоматизация бизнес-процессов
+
+> Серверная инфраструктура
+
+> Разработка полезных IT-решений
+
+> Оптимизация и масштабирование проектов
+```
 
 ---
 
 # 📫 Контакты
 
+<div align="center">
 
-Telegram:
-https://t.me/tete4kaa
+<a href="https://t.me/tete4kaa">
 
+<img src="https://img.shields.io/badge/Telegram-Написать-blue?style=for-the-badge&logo=telegram">
 
+</a>
 
+</div>
 
----
+<br>
+
+<div align="center">
 
 ⭐ Спасибо за просмотр моего профиля!
+
+</div>
