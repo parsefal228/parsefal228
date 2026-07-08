@@ -149,11 +149,9 @@ Python • Aiogram • PostgreSQL
 
 
 Telegram:
-https://t.me/your_username
+https://t.me/tete4kaa
 
 
-Email:
-your@email.com
 
 
 ---
